@@ -11,4 +11,4 @@ I reversed around for like 3 hours and spent 3 hours programming, had a working 
 
 I'll update this to have error handling in L->errfunc so you don't just shit game when a lua exception gets thrown, it crashes right now because of trying to create a new thread.
 
-![](https://gyazo.com/81147b516b120d3dbeda1f73565f2ea6)
+![](https://i.gyazo.com/81147b516b120d3dbeda1f73565f2ea6.gif)
